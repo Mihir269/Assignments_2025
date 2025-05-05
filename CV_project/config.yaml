@@ -1,0 +1,7 @@
+path: C:\Users\gunem\OneDrive\Desktop\data
+
+train: C:\Users\gunem\OneDrive\Desktop\data\images\train
+val: C:\Users\gunem\OneDrive\Desktop\data\images\train
+
+nc: 1
+names: ['target']
